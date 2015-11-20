@@ -41,7 +41,7 @@
     Copyright@chenhai
 </summary>
 <p>
-    随手开发的小程序，希望为大家提供方便
+    随手开发的小程序，希望大家喜欢
 </p>
 </details>
 </div>
